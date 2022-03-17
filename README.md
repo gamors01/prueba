@@ -9,3 +9,13 @@ Esta es una práctica del uso de la herramienta ***git*** para la asignatura *En
 ### Colaboradores:
 
 1. *Guillermo Amor Sánchez*
+
+# <ins>**ARCHIVOS A IGNORAR**</ins>
+
+## Ficheros compilados:
+
+*.class
+
+## Ficheros de configuración:
+
+.conf
