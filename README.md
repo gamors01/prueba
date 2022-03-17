@@ -12,7 +12,7 @@ Esta es una práctica del uso de la herramienta ***git*** para la asignatura *En
 
 ***
 
-###### Para conocer más sobre la instalación y puesta en marcha [ver Wiki](https://github.com/gamors01/prueba/wiki/Prueba)
+###### Para conocer más sobre la instalación y puesta en marcha [ver Wiki](https://github.com/gamors01/prueba/wiki/Prueba-de-titulo)
 
 # <ins>**ARCHIVOS A IGNORAR**</ins>
 
