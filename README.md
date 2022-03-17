@@ -1,4 +1,4 @@
-### PRÁCTICA GIT
+# PRÁCTICA GIT
 
 ## Authors
 
