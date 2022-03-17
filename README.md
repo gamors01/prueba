@@ -10,6 +10,10 @@ Esta es una práctica del uso de la herramienta ***git*** para la asignatura *En
 
 1. *Guillermo Amor Sánchez*
 
+***
+
+###### Para conocer más sobre la instalación y puesta en marcha [ver Wiki](https://github.com/gamors01/prueba/wiki)
+
 # <ins>**ARCHIVOS A IGNORAR**</ins>
 
 ## Ficheros compilados:
