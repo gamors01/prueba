@@ -18,4 +18,4 @@ Esta es una práctica del uso de la herramienta ***git*** para la asignatura *En
 
 ## Ficheros de configuración:
 
-.conf
+*.conf
