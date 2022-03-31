@@ -6,6 +6,8 @@ public class Prueba {
 		
 		System.out.println("Esto es una prueba de git con Eclipse.");
 		
+		// Esto es una segunda prueba
+		
 	}
 
 }
